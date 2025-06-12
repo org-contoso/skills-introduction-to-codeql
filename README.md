@@ -26,7 +26,7 @@ _Ensuring the security of application source code is a critical step in modern s
 
 ## Step 1: Enable CodeQL
 
-👋 Hello! Welcome to the GitHub Skills course: Enable code scanning! 
+Hello! Welcome to the GitHub Skills course: Enable code scanning! 
 
 Let's get started!  
 
